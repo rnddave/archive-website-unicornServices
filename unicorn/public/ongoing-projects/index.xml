@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ongoing Projects on Unicorn Services Ltd</title>
-    <link>/ongoing-projects/</link>
+    <link>/portfolio/unicorn/ongoing-projects/</link>
     <description>Recent content in Ongoing Projects on Unicorn Services Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/ongoing-projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/portfolio/unicorn/ongoing-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travelodge Peckham</title>
-      <link>/ongoing-projects/travelodge-pecham/</link>
+      <link>/portfolio/unicorn/ongoing-projects/travelodge-pecham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ongoing-projects/travelodge-pecham/</guid>
+      <guid>/portfolio/unicorn/ongoing-projects/travelodge-pecham/</guid>
       <description>A five-story, 56-bed hotel to be built in the center of Peckham. The work involves the demolition of the existing two-story, low-rise block where the Peckham High Street Post Office and another two businesses are located, and the construction of the proposed block from the foundation.</description>
     </item>
     

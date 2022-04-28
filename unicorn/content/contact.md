@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 background: "images/bg.jpg"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "0"
 
 ---

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Builds on Unicorn Services Ltd</title>
-    <link>/new-builds/</link>
+    <link>/portfolio/unicorn/new-builds/</link>
     <description>Recent content in New Builds on Unicorn Services Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/new-builds/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/portfolio/unicorn/new-builds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Croydon Mosque</title>
-      <link>/new-builds/croydon-mosque/</link>
+      <link>/portfolio/unicorn/new-builds/croydon-mosque/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/new-builds/croydon-mosque/</guid>
+      <guid>/portfolio/unicorn/new-builds/croydon-mosque/</guid>
       <description>Phase 3 opening event, Unicorn Services was invited as the principle contractor, Mayor of Croydon Councillor Bernadette Khan also attended the event.</description>
     </item>
     
     <item>
       <title>Warner Road</title>
-      <link>/new-builds/warner-road/</link>
+      <link>/portfolio/unicorn/new-builds/warner-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/new-builds/warner-road/</guid>
+      <guid>/portfolio/unicorn/new-builds/warner-road/</guid>
       <description>New build 4 storey building containing (9 x 3 Bed Flats)
 Construction cost: £2.6m Start: Oct 2016 End: Oct 2018</description>
     </item>
     
     <item>
       <title>Chevening Road</title>
-      <link>/new-builds/chevening-road/</link>
+      <link>/portfolio/unicorn/new-builds/chevening-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/new-builds/chevening-road/</guid>
+      <guid>/portfolio/unicorn/new-builds/chevening-road/</guid>
       <description>New build 4 storey building containing (9 x 3 Bed Flats)
 Construction cost: £2.6m Start: Oct 2016 End: Oct 2018</description>
     </item>

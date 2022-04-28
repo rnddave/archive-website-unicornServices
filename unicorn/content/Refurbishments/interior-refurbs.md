@@ -1,7 +1,7 @@
 ---
 title: Interior Refurbishment
 background: "images/bg.jpg"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "5"
 ---
 

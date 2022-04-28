@@ -2,7 +2,7 @@
 title: "Old Kent Road"
 description: "Project: 184-204 Old Kent Road, SE1"
 icon: "flag"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "1"
 ---
 

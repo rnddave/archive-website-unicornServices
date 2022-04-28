@@ -2,7 +2,7 @@
 title: "Warner Road"
 description: "Project: 97 Warner Road, London, SE5 9NE"
 icon: "flag"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "2"
 ---
 

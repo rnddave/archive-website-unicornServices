@@ -2,7 +2,7 @@
 title: "Northolt Road"
 description: "Project: 56-60 Northolt Rd, Harrow HA2 0DW"
 icon: "flag"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "2"
 ---
 

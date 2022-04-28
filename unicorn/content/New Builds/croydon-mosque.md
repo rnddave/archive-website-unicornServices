@@ -2,7 +2,7 @@
 title: "Croydon Mosque"
 description: "Project: Croydon Mosque"
 icon: "flag"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "1"
 ---
 

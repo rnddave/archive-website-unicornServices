@@ -2,7 +2,7 @@
 title: "Travelodge Peckham"
 description: "Project: Travelodge Hotel, 121-125 Peckham High Street, Peckham, SE15 5SF"
 icon: "flag"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "1"
 ---
 

@@ -2,7 +2,7 @@
 title: "Chevening Road"
 description: "Project: 47 Chevening Road, SE19"
 icon: "flag"
-logo: "/images/unicorn-logo.svg"
+logo: "images/unicorn-logo.svg"
 weight: "3"
 ---
 
