@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/portfolio/unicorn/new-builds/croydon-mosque/</loc>
+    <loc>./new-builds/croydon-mosque/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/hotels/old-kent/</loc>
+    <loc>./hotels/old-kent/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/ongoing-projects/</loc>
+    <loc>./ongoing-projects/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/ongoing-projects/travelodge-pecham/</loc>
+    <loc>./ongoing-projects/travelodge-pecham/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/new-builds/</loc>
+    <loc>./new-builds/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/hotels/northolt-road/</loc>
+    <loc>./hotels/northolt-road/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/new-builds/warner-road/</loc>
+    <loc>./new-builds/warner-road/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/new-builds/chevening-road/</loc>
+    <loc>./new-builds/chevening-road/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/hotels/</loc>
+    <loc>./hotels/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/refurbishments/</loc>
+    <loc>./refurbishments/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/refurbishments/interior-refurbs/</loc>
+    <loc>./refurbishments/interior-refurbs/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/categories/</loc>
+    <loc>./categories/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/contact/</loc>
+    <loc>./contact/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/tags/</loc>
+    <loc>./tags/</loc>
   </url><url>
-    <loc>/portfolio/unicorn/</loc>
+    <loc>./</loc>
   </url>
 </urlset>

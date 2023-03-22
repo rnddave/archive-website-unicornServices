@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hotels on Unicorn Services Ltd</title>
-    <link>/portfolio/unicorn/hotels/</link>
+    <link>./hotels/</link>
     <description>Recent content in Hotels on Unicorn Services Ltd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/unicorn/hotels/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="./hotels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Kent Road</title>
-      <link>/portfolio/unicorn/hotels/old-kent/</link>
+      <link>./hotels/old-kent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/unicorn/hotels/old-kent/</guid>
+      <guid>./hotels/old-kent/</guid>
       <description>4 floors refurbishment plus 50m extension for a total of 86 hotel rooms
 Construction cost: £3.7m Start: May 2013 End: Jul 2016</description>
     </item>
     
     <item>
       <title>Northolt Road</title>
-      <link>/portfolio/unicorn/hotels/northolt-road/</link>
+      <link>./hotels/northolt-road/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/unicorn/hotels/northolt-road/</guid>
+      <guid>./hotels/northolt-road/</guid>
       <description>Refurbishment of 50 En-suite bedrooms
 Construction cost: £2.4m Start: Apr 2010 End: Nov 2011</description>
     </item>
