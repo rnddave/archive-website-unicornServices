@@ -1,3 +1,3 @@
-[submodule "unicorn/themes/dimension"]
-	path = unicorn/themes/dimension
+[submodule "themes/dimension"]
+	path = themes/dimension
 	url = https://github.com/your-identity/hugo-theme-dimension.git
